@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gists/static/css/main.3d2928de.css",
+    "main.js": "/gists/static/js/main.01e3e89c.js",
+    "static/js/787.ac76d60e.chunk.js": "/gists/static/js/787.ac76d60e.chunk.js",
+    "static/media/THICCCBOI-Bold.ttf": "/gists/static/media/THICCCBOI-Bold.0cba0bd448f48fca01d3.ttf",
+    "index.html": "/gists/index.html",
+    "main.3d2928de.css.map": "/gists/static/css/main.3d2928de.css.map",
+    "main.01e3e89c.js.map": "/gists/static/js/main.01e3e89c.js.map",
+    "787.ac76d60e.chunk.js.map": "/gists/static/js/787.ac76d60e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d2928de.css",
+    "static/js/main.01e3e89c.js"
+  ]
+}
